@@ -6,7 +6,7 @@ Instrumentation I: Projects Portfolio \
 *Repository Overview*\
 This repository contains some **projects** and **practical assignments** completed for the **Instrumentation I** course at the University of the Basque Country.\
 \
-*Course objectives*
+*Course objectives*\
 The aim of this course is to introduce the fundamental concepts of **electronic instrumentation systems**, independent of their application field. It covers the experimental characterization of physical magnitudes, including sensors, noise and electromagnetic interference, basic signal acquisition and conditioning techniques, as well as an introduction to signal generation, modulation, and data acquisition systems. 
 
 
